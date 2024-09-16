@@ -9,7 +9,6 @@ Welcome to my GitHub profile! Here’s a little bit about me and what I’m pass
 
 - 🌱 I’m currently learning:
   - Advanced Python programming, machine learning, and scalable data management techniques.
-  - Improving my fluency in French, English, Ewe, and Akan—in addition to the seven languages I already speak!
 
 - 👯 I’m looking to collaborate on:
   - Ed-tech projects, particularly those that introduce young learners to computer science.
